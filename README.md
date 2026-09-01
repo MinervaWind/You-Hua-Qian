@@ -62,4 +62,4 @@
 
 ---
 
-*Inspired by Minerva, coded by Claude · 当前版本 v0.9.2*
+*Inspired by Minerva, coded by Claude · 当前版本 v0.9.3*
